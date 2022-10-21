@@ -1,0 +1,8 @@
+C:\Users\oscar\OneDrive\Documentos\PatronObserver\PatronObserver\obj\Debug\PatronObserver.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Documentos\PatronObserver\PatronObserver\obj\Debug\PatronObserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\OneDrive\Documentos\PatronObserver\PatronObserver\obj\Debug\PatronObserver.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documentos\PatronObserver\PatronObserver\bin\Debug\PatronObserver.exe.config
+C:\Users\oscar\OneDrive\Documentos\PatronObserver\PatronObserver\bin\Debug\PatronObserver.exe
+C:\Users\oscar\OneDrive\Documentos\PatronObserver\PatronObserver\bin\Debug\PatronObserver.pdb
+C:\Users\oscar\OneDrive\Documentos\PatronObserver\PatronObserver\obj\Debug\PatronObserver.exe
+C:\Users\oscar\OneDrive\Documentos\PatronObserver\PatronObserver\obj\Debug\PatronObserver.pdb
